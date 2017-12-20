@@ -1,3 +1,3 @@
 <?php
-	header("Location: http://alkimia.000webhostapp.com/wordpress");
+	header("Location: http://alkimiasimplesassim.com.br/wordpress");
 ?>
