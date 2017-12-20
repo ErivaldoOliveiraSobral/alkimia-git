@@ -178,8 +178,8 @@ CREATE TABLE `wp_options` (
 --
 
 INSERT INTO `wp_options` (`option_id`, `option_name`, `option_value`, `autoload`) VALUES
-(1, 'siteurl', 'https://alkimia.000webhostapp.com/wordpress/', 'yes'),
-(2, 'home', 'https://alkimia.000webhostapp.com/wordpress/', 'yes'),
+(1, 'siteurl', 'https://alkimiasimplesassim.com.br/wordpress/', 'yes'),
+(2, 'home', 'https://alkimiasimplesassim.com.br/wordpress/', 'yes'),
 (3, 'blogname', 'Alkimia', 'yes'),
 (4, 'blogdescription', '', 'yes'),
 (5, 'users_can_register', '0', 'yes'),
